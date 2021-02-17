@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/satoshi9394/demo-vue3-platzi](https://my-json-server.typicode.com/satoshi9394/demo-vue3-platzi)
+[https://my-json-server.typicode.com/satoshi9394/team-react-8-db](https://my-json-server.typicode.com/satoshi9394/team-react-8-db)
 
 ## Use your own data
 
