@@ -34,5 +34,65 @@
       "password": 123456,
       "userName": "Laura"
     }
-  ]
+  ],
+  "carrusel": {
+    "sponsors": [
+      {
+        "id": 1,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F271bcdfa-6fb4-492c-91b2-c1f50208477a%2FHuawei.jpg?table=block&id=3a2bb9b6-50d3-49f4-879e-3d16cfad150d&width=3070&userId=&cache=v2",
+        "name": "huawei"
+      },
+      {
+        "id": 2,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F542a8be5-03e6-43fb-80fc-fe86ca52ff82%2F1s-3xb4V_400x400.jpg?table=block&id=bdb70685-e732-41d9-b56b-8ae34db7c109&width=3070&userId=&cache=v2",
+        "name": "Fernando Herrera"
+      },
+      {
+        "id": 3,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff31cbb8b-7e06-4363-b370-6c6299717f7b%2Funnamed.jpg?table=block&id=ded3c3f5-8fa9-4657-97b5-c58611dd4be6&width=3070&userId=&cache=v2",
+        "name": "Leónidas Esteban"
+      },
+      {
+        "id": 4,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F86c9bdf2-1142-4dba-ad78-cc1c4926de75%2F7SUbPuSR_400x400.jpg?table=block&id=d711a764-737d-4780-853f-7ced5da70cbe&width=3070&userId=&cache=v2",
+        "name": "José Dimas"
+      },
+      {
+        "id": 5,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd90248f4-efde-4293-9a92-6ce2694258a1%2Funnamed_(5).jpg?table=block&id=20af28f9-e477-4a46-b073-74fbcb6091df&width=3070&userId=&cache=v2",
+        "name": "Domini Code"
+      },
+      {
+        "id": 6,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff4e2f337-eecb-4322-914c-9f190857b018%2Flogo.png?table=block&id=506be8cf-fe75-4c83-bea2-9e040dc715a0&width=3070&userId=&cache=v2",
+        "name": "TekkiTV"
+      },
+      {
+        "id": 7,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ff3b2be54-19b2-4871-b8ac-43b33aab8f02%2FFjpfg6Cu_400x400.png?table=block&id=c0d35472-7d70-4e72-b665-361098dc6b84&width=3070&userId=&cache=v2",
+        "name": "CodelyTV"
+      },
+      {
+        "id": 8,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F94c923d7-a142-4c9c-89e0-355cadfd9b2c%2F124284962_114183360493972_7972504090051096032_o.png?table=block&id=a1255113-aec6-4508-b73c-9bebb3138a0b&width=3070&userId=&cache=v2",
+        "name": "Stackly Code"
+      },
+      {
+        "id": 9,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09129ace-255e-4374-b57b-77af671486af%2F124a861f-0914-43a1-92b4-e6b7048a177f.jpg?table=block&id=67fc31be-4bc6-472c-a99e-ac505a3e0b4e&width=3070&userId=&cache=v2",
+        "name": "LatamDev"
+      },
+      {
+        "id": 10,
+        "url": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7d576b7e-c043-40e1-b410-0db5166ca458%2Fcodigofacilito.png?table=block&id=e189316b-f233-4e6f-9b21-c7426e276a23&width=3070&userId=&cache=v2",
+        "name": "Códigofacilito"
+      },
+      {
+        "id": 11,
+        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45bfb43e-e480-46fa-b8fa-b292faff7c15/sponsor-egghead.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210228%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210228T224630Z&X-Amz-Expires=86400&X-Amz-Signature=ce8dcf261333f7f0614eb11ab4b7e9cc557e60928d4add06479898310855ac7c&X-Amz-SignedHeaders=host",
+        "name": "Egghead"
+      }
+    ],
+    ""
+  }
 }
